@@ -110,6 +110,7 @@ Companies move their entire IT infrastructure to AWS.
 Saves cost, improves scalability, and increases reliability.
 
 ## RESULT
+thus we successful created AWS account 
 
  
 
